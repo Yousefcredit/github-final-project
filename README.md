@@ -1,4 +1,4 @@
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+2023 XYZ, Inc.
 Input:
    p, principal amount
    t, time period in years
